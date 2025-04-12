@@ -2,7 +2,7 @@
 title: OverDose 引论
 description: 
 published: true
-date: 2025-04-12T12:39:56.013Z
+date: 2025-04-12T14:51:21.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T12:32:18.796Z
@@ -19,7 +19,7 @@ dateCreated: 2025-04-12T12:32:18.796Z
 
 **Overdose**，缩写od，严格译作过度剂量即为**过量**，并不带药物滥用的含义，滥用药物是Drug abuse。od真包含于药物滥用，滥用药物俗称嗑药
 
-**毒品**是中文特有的名词，不等价于英文的 Drug。“毒品”指代高威胁性精神药品，“Drug” 指代任何药品。英文描述中文指代的“毒品”时并不使用 Medicine 或 Medication，而是使用 Drug，这种刻板印象就这么流传开了。在英语中，高威胁性的麻精药品通常称为 Hard Drug（见后文）
+**毒品**是中文特有的名词，不等价于英文的 Drug。“毒品”指代高威胁性精神药品，“Drug” 指代任何药品。英文描述中文指代的“毒品”时并不使用 Medicine 或 Medication，而是使用 Drug，这种刻板印象就这么流传开了。在英语中，高威胁性的麻精药品通常称为 Hard Drug。
 
 ## 基础
 
