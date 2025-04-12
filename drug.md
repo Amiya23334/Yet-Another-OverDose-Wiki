@@ -2,7 +2,7 @@
 title: 药物索引
 description: 
 published: true
-date: 2025-04-12T13:07:25.111Z
+date: 2025-04-12T13:10:31.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-11T13:56:33.381Z
@@ -12,14 +12,16 @@ dateCreated: 2025-04-11T13:56:33.381Z
 本站提供按多种不同方式分类的药物索引，读者可以在页面左侧选择自己习惯的索引方式寻找药物。
 ## 归类描述的药物索引
 - [NMDA相关](/drugs_meta/NMDA受体相关药物)、[抗抑郁潜力的NMDA拮抗剂](/drugs_meta/NMDA拮抗剂)
-- [复方制剂系列](/drugs_meta/复方系列)
+- [复方制剂系列](/drugs_meta/复方制剂)
 - [茶碱类药物](/drugs_meta/茶碱类药物)
 - [胆碱酯酶抑制剂](/drugs_meta/ChEI)
-- [苯二氮䓬类药物](/drugs_meta/BZDs)、[巴比妥类药物](/drugs_meta/巴比妥类安眠药)
-- [益智药](/drugs_meta/益智药概述及索引)
+- [苯二氮䓬类药物](/drugs_meta/苯二氮䓬类药物)、[巴比妥类药物](/drugs_meta/巴比妥类药物)
+- [益智药](/drugs_meta/益智药)
 - [谵妄剂](/drugs_meta/谵妄剂)
-- [加巴喷丁类](/drugs_meta/加巴喷丁类药物)
+- [加巴喷丁类药物](/drugs_meta/加巴喷丁类药物)
 - [烷胺类药物](/drugs_meta/烷胺类药物)
+- [阿片类药物](/drugs_meta/阿片类药物)
+
 ## 根据作用机理分类的药物索引（未完待续）
 ### 血清素相关
 - [血清素再摄取抑制剂](/t/血清素再摄取抑制剂)（SRI）
