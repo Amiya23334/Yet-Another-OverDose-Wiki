@@ -1,5 +1,5 @@
 ﻿---
-title: 6-APB
+title: N-苯乙酰-l-脯氨酰甘氨酸乙酯
 description: 
 published: true
 date: 2025-04-11T15:58:39.009Z
