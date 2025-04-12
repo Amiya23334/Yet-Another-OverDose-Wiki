@@ -1,14 +1,12 @@
 ---
-title: 首页
+title: 欢迎来到 Yet Another OverDose 百科
 description: 
 published: true
-date: 2025-04-12T17:56:51.135Z
+date: 2025-04-12T17:57:57.897Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-11T10:54:12.702Z
 ---
-
-## 欢迎来到 Yet Another OverDose 百科
 
 **Yet Another OverDose 百科**是又一个 OD 百科。
 
