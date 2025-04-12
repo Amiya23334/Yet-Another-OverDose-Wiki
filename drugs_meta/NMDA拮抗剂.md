@@ -1,4 +1,4 @@
-﻿---
+---
 title: NMDA拮抗剂
 description: 
 published: true

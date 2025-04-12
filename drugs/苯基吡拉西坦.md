@@ -1,4 +1,4 @@
-﻿---
+---
 title: 6-APB
 description: 
 published: true

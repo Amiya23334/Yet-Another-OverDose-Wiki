@@ -1,4 +1,4 @@
-﻿---
+---
 title: NMDA受体相关药物
 description: 
 published: true

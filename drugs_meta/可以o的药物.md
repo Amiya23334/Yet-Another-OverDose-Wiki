@@ -1,4 +1,4 @@
-﻿---
+---
 title: 可以o的药物
 description: 
 published: true

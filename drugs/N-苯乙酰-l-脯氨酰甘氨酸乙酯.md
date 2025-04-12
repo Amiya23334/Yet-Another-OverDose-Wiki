@@ -1,4 +1,4 @@
-﻿---
+---
 title: N-苯乙酰-l-脯氨酰甘氨酸乙酯
 description: 
 published: true
