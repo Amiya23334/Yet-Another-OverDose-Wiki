@@ -2,7 +2,7 @@
 title: 报告列表
 description: 
 published: true
-date: 2025-04-12T12:42:53.845Z
+date: 2025-04-12T12:43:13.855Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-11T13:55:27.087Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-11T13:55:27.087Z
 # OverSpeed 百科系列报告
 报告标题说明：若报告相关药物较少则标明剂量，若相关药物较多或剂量不明则省去剂量。剂量单位，单方制剂统一用毫克（mg），复方制剂、中成药用片数/粒数（t）。
 
-下列报告中提到的”Wiki 主“是指”OverSpeed 百科“的”Wiki 主“。
+下列报告中提到的”Wiki 主“或”主编“是指”OverSpeed 百科“的”Wiki 主“或”主编“。
 
 ## 统计与分析
 - [报告0 【已停更】报告药物统计](/reports/报告统计)：来看看哪种药物最受欢迎吧
