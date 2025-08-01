@@ -2,7 +2,7 @@
 title: 麻醉药品和精神药品目录
 description: 药用类及非药用类，2025年7月28日
 published: true
-date: 2025-08-01T08:31:13.195Z
+date: 2025-08-01T08:32:00.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-01T08:27:15.591Z
@@ -28,7 +28,7 @@ dateCreated: 2025-08-01T08:27:15.591Z
 
 新版目录在第一类精神药品哌甲酯的备注中说明，该条目“包括含丝右哌甲酯和右哌甲酯复方制剂”。
 
-原第二类精神药品[苏沃雷生](https://zh.wikipedia.org/zh-tw/%E8%8B%8F%E6%B2%83%E9%9B%B7%E7%94%9F)不再列管。
+原第二类精神药品[苏沃雷生](https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%B2%83%E9%9B%B7%E7%94%9F)不再列管。
 
 ## 非药用类麻醉药品和精神药品目录
 
