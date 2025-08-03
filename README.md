@@ -1,11 +1,3 @@
----
-title: 测试
-description: 
-published: true
-date: 2025-04-11T14:06:54.062Z
-tags: 
-editor: markdown
-dateCreated: 2025-04-11T13:56:33.381Z
----
+## 欢迎来到 Yet Another OverDose 百科，又一个 OD 百科
 
-测试
+这里是 YA-OD 百科的 GitHub 仓库，网页参见：https://overdose.work/
