@@ -56,7 +56,7 @@ IPPH（Isopropylphenidate）是抗ADHD药、策划药（Designer drugs），属�
 
 ## 相互作用
 - IPPH 与 乙醇 合用增加意外过量醉酒的风险，可能导致昏厥和严重的呼吸抑制
-- IPPH 与 [右美沙芬](/drug/DXM) 合用增加血清素综合征风险
+- IPPH 与 [右美沙芬](/drugs/右美沙芬.md) 合用增加血清素综合征风险
 - IPPH 与 解离剂 合用增加妄想、躁狂和精神病风险
 - IPPH 与 兴奋剂 合用增加心率、血压严重升高风险
 - IPPH 与 曲马多 合用增加癫痫发作风险
