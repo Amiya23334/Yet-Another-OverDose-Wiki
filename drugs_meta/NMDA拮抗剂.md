@@ -14,11 +14,11 @@ dateCreated: 2025-04-12T10:05:12.112Z
 #### 已批准用于抗抑郁
 - S氯胺酮（Esketamine）：鼻喷雾剂，即氯胺酮（Ketamine，用作毒品时通称K粉）的S-对映体。国内部分医院内有供应，限医院内使用，一类精神药品管制。
   - 【2024年12月11日更新】已知Esketamine在上海精神卫生中心^[[微信公众号](https://mp.weixin.qq.com/s/thJkfnKmO9hwmQUMJ5klgQ)]、杭州第七人民医院 ^[[新浪财经](https://finance.sina.cn/2024-12-05/detail-incyknpv3140814.d.html)]有供应，价格约800元/支。
-- Auvelity：右美沙芬安非他酮复方缓释片，有专利的特殊缓释技术，目前仅在美国上市，参考[亚马逊](https://pharmacy.amazon.com/AUVELITY-45-105-MG-TAB/dp/B0BK1GJQWC?)购物网站。用法用量：前3天每天服用1次，以后每天服用2次须间隔8小时。^[[微信公众号](https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDcwNQ==&mid=2654618802&idx=1&sn=d9fe232154ad1ffea6ec179029337228)] 24小时内不要服用超过2片Auvelity片剂。如果依此标准，单纯计算右美沙芬日摄入量（45mg×2=90mg），则与止咳剂量（一天3次，一次2t，一片15mg）并无差异。加之安非他酮为CYP2D6抑制剂，阻止右美沙芬向NMDA拮抗作用更强的[右啡烷](/drug/DXM)转化。故主编推测，医学剂量下使用Auvelity并不会出现可察觉的解离。Auvelity不适用于儿童。^[[互联药学网](http://www.hulianmedical.com/a/yiyaozixun/2024/0323/5154.html)]
+- Auvelity：右美沙芬安非他酮复方缓释片，有专利的特殊缓释技术，目前仅在美国上市，参考[亚马逊](https://pharmacy.amazon.com/AUVELITY-45-105-MG-TAB/dp/B0BK1GJQWC?)购物网站。用法用量：前3天每天服用1次，以后每天服用2次须间隔8小时。^[[微信公众号](https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDcwNQ==&mid=2654618802&idx=1&sn=d9fe232154ad1ffea6ec179029337228)] 24小时内不要服用超过2片Auvelity片剂。如果依此标准，单纯计算右美沙芬日摄入量（45mg×2=90mg），则与止咳剂量（一天3次，一次2t，一片15mg）并无差异。加之安非他酮为CYP2D6抑制剂，阻止右美沙芬向NMDA拮抗作用更强的[右啡烷](/drugs/右美沙芬)转化。故主编推测，医学剂量下使用Auvelity并不会出现可察觉的解离。Auvelity不适用于儿童。^[[互联药学网](http://www.hulianmedical.com/a/yiyaozixun/2024/0323/5154.html)]
 #### 已用于其他适应症上市，但抗抑郁仍属超说明书用药
 - [利鲁唑](/drug/RLZ)（Riluzole）：说明书内适应症为抗肌萎缩侧索硬化症，更适用于抗抑郁的舌下制剂仍在开发中。另有衍生物用于强迫症治疗的研究。
 #### 作用有争议的药物
-- 已上市的抗癫痫药[拉莫三嗪](/drug/拉莫三嗪)有用作抗抑郁的研究，惟其是否属于NMDA拮抗剂尚有争议，部分文献认为其对NMDA受体无明显作用^[[wikipedia](https://en.wikipedia.org/wiki/Lamotrigine#Mechanism_of_action)：「Lamotrigine does not have pronounced effects on any of the usual neurotransmitter receptors that anticonvulsants affect (adrenergic, dopamine D1 and D2, muscarinic, GABA, histaminergic H1, serotonin 5-HT2, and N-methyl-D-aspartate).」]，而另有文献认为拉莫三嗪可能是通过抑制NMDA受体作用发挥抗抑郁作用^[[济宁医学院学报](http://jnyxy.cnjournals.org/html/2018/3/20180303.htm)
+- 已上市的抗癫痫药[拉莫三嗪](/drugs/拉莫三嗪)有用作抗抑郁的研究，惟其是否属于NMDA拮抗剂尚有争议，部分文献认为其对NMDA受体无明显作用^[[wikipedia](https://en.wikipedia.org/wiki/Lamotrigine#Mechanism_of_action)：「Lamotrigine does not have pronounced effects on any of the usual neurotransmitter receptors that anticonvulsants affect (adrenergic, dopamine D1 and D2, muscarinic, GABA, histaminergic H1, serotonin 5-HT2, and N-methyl-D-aspartate).」]，而另有文献认为拉莫三嗪可能是通过抑制NMDA受体作用发挥抗抑郁作用^[[济宁医学院学报](http://jnyxy.cnjournals.org/html/2018/3/20180303.htm)
 ]。
 - 【2024年10月16日更新】人民卫生出版社《药理学（第4版）》仅表示拉莫三嗪可抑制兴奋性谷氨酸递质释放，而并未表示拉莫三嗪是否对NMDA受体有拮抗作用，事实上阻断钙离子通道也可致抑制谷氨酸递质释放的结果。故拉莫三嗪仍属于存疑的NMDA拮抗剂。![拉莫三嗪教材.jpg](/imgs/拉莫三嗪教材.jpg)
 ### 未上市
@@ -36,9 +36,9 @@ dateCreated: 2025-04-12T10:05:12.112Z
 - 阿匹替奈（Apimostinel，NRX-1074/AGN-241660）：NMDA拮抗^[[微信公众号](https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDcwNQ==&mid=2654606438&idx=1&sn=3fdfadfb3ff34142337c1b2919f6fc6d)]或激动 ^[[wikipedia](https://en.wikipedia.org/wiki/List_of_investigational_antidepressants#NMDA_receptor_modulators)]有争议
 - Zelquistinel（AGN-241751）^[未查到中文名，根据同类物推测，若成功上市则中文名应当为「**替奈」]：实际为NMDA部分激动剂 ^[[微信公众号](https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDcwNQ==&mid=2654606438&idx=1&sn=3fdfadfb3ff34142337c1b2919f6fc6d)]或正变构调节剂 ^[[wikipedia](https://en.wikipedia.org/wiki/List_of_investigational_antidepressants#NMDA_receptor_modulators)]
 ### 主编评价
-- 从以上药物研究来看，[右美沙芬](/drug/DXM)单方制剂用于抗抑郁实际很尴尬。作为止咳药，它实际上的主作用机理是Sigma1激动，NMDA拮抗只是副作用机理（想一想，右美解离是不是需要od，止咳剂量能解离吗？），相比专门的NMDA拮抗剂（如氯胺酮）作用不够强。而它的另一个作用SNRI同样也是副作用机理，传统抗抑郁又不如专门的SNRI（如度洛西汀）。因此对右美沙芬抗抑郁的研究，总是要么复方、要么氘代。
+- 从以上药物研究来看，[右美沙芬](/drugs/右美沙芬)单方制剂用于抗抑郁实际很尴尬。作为止咳药，它实际上的主作用机理是Sigma1激动，NMDA拮抗只是副作用机理（想一想，右美解离是不是需要od，止咳剂量能解离吗？），相比专门的NMDA拮抗剂（如氯胺酮）作用不够强。而它的另一个作用SNRI同样也是副作用机理，传统抗抑郁又不如专门的SNRI（如度洛西汀）。因此对右美沙芬抗抑郁的研究，总是要么复方、要么氘代。
 - S氯胺酮不但是管制药，而且仅适用于难治性抑郁症有强烈自杀倾向时的应急治疗，并不适合长期的常规治疗。
-- [美金刚](/drug/MMT)作为NMDA拮抗剂，确实有抗抑郁[研究](https://en.wikipedia.org/wiki/Memantine#Psychiatry)，然而结果并不证明有效。
+- [美金刚](/drugs/美金刚)作为NMDA拮抗剂，确实有抗抑郁[研究](https://en.wikipedia.org/wiki/Memantine#Psychiatry)，然而结果并不证明有效。
 - 利鲁唑已证明有效，但价格昂贵，还有肝毒性，且更适用于抗抑郁的剂型迟迟不上市。其衍生物Troriluzole也只用于抗强迫症的研究。
 - **综上，所以安全方便亲民的NMDA拮抗剂抗抑郁药到底还要等多久？？**
 ### 对话区
