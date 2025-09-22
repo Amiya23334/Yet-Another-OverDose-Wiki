@@ -10,7 +10,7 @@ dateCreated: 2025-04-12T10:05:12.112Z
 
 【本条目创建时间：2024年10月4日】
 ## 概述
-N-苯乙酰-l-脯氨酰甘氨酸乙酯（N-Phenylacetyl-l-prolylglycine ethyl ester），通称Noopept或Omberacetam^[[bilibili](https://www.bilibili.com/video/BV1G1421t7WV/)：尽管Omberacetam有时被翻译为中文「昂贝西坦」、「安贝西坦」等，但从化学结构来看，Noopept并不是严格意义上的西坦类药物]，开发代码GVS-111，是已暂停开发的认知障碍治疗药物，属于[益智药](/drug/nootropic/益智药概述及索引)。 ^[[wikipedia](https://en.wikipedia.org/wiki/N-Phenylacetyl-L-prolylglycine_ethyl_ester)]
+N-苯乙酰-l-脯氨酰甘氨酸乙酯（N-Phenylacetyl-l-prolylglycine ethyl ester），通称Noopept或Omberacetam^[[bilibili](https://www.bilibili.com/video/BV1G1421t7WV/)：尽管Omberacetam有时被翻译为中文「昂贝西坦」、「安贝西坦」等，但从化学结构来看，Noopept并不是严格意义上的西坦类药物]，开发代码GVS-111，是已暂停开发的认知障碍治疗药物，属于[益智药](/drugs_meta/益智药.md)。 ^[[wikipedia](https://en.wikipedia.org/wiki/N-Phenylacetyl-L-prolylglycine_ethyl_ester)]
 ## 药理作用
 ### 作用机理^[[wikipedia](https://en.wikipedia.org/wiki/N-Phenylacetyl-L-prolylglycine_ethyl_ester)] ^[[psywiki](https://m.psychonautwiki.org/w/index.php?title=Omberacetam&_=)]
 - 促进表达：脑源性神经营养因子/BDNF
