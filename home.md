@@ -48,3 +48,6 @@ Amiya Underdose WIki 继承于 [Yet-Another-OverDose-Wiki](https://github.com/YA
 [Psychonaut Wiki](https://psychonautwiki.org/wiki/Main_Page)
 
 [Gemini 2.5 Pro Preview 03-25](aistudio.google.com/)
+
+## 特别感谢
+ 瑞幸咖啡
