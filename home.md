@@ -27,6 +27,8 @@ Amiya Underdose WIki 继承于 [Yet-Another-OverDose-Wiki](https://github.com/YA
 
 由于 Wiki 主能力有限，本站内容恐多有讹误，敬请不吝指正，在此预先表示感谢。
 
+**本站欢迎各位的更正！！也推荐有意者一起进行维护网站**
+
 ## 资料来源
 
 缓慢缝合中……
