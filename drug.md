@@ -89,7 +89,7 @@
 - [抗癫痫药物]：[左乙拉西坦](/drugs/左乙拉西坦)、[卡马西平](/drugs/卡马西平)、[奥卡西平](/drugs/卡马西平)、[托吡酯](/drugs/托吡酯)、[拉莫三嗪](/drugs/拉莫三嗪)、苯妥英、扑米酮、丙戊酸、乙琥胺、[大麻二酚](/drugs/大麻二酚)、[苯二氮䓬类药物](/drugs_meta/苯二氮䓬类药物)
   - [加巴喷丁大类药](/drugs_meta/加巴喷丁类药物)：加巴喷丁、<s>[普瑞巴林](/drugs/普瑞巴林)</s>、<s>[巴氯芬](/drugs/巴氯芬)</s> 、<s>[菲尼布特/非尼布特](/drugs/菲尼布特.md)</s>
 - [抗衰剂](/t/抗衰剂)
-## 按本站收录时间的药物索引^[只计有独立条目的药物]
+## 按本站收录时间的药物索引
 | 顺序码 | 药物 | 本站收录时间 | 顺序码 | 药物 | 本站收录时间 | 顺序码 | 药物 | 本站收录时间 |
 | ---- | ---- | ---- |---- |---- |---- |---- |---- |---- |
 | A0001 | [金刚乙胺](/drugs/金刚乙胺) | 20240603 | A0002 | [雌二醇](/drugs/雌二醇) | 20240606 | A0003 | [姜黄素](/drugs/姜黄素) | 20240607 |
@@ -118,7 +118,7 @@
 | A0070 | [地佐环平](/drugs/地佐环平) | 20241125 | A0071 | [法莫替丁](/drugs/法莫替丁) | 20241126| A0072 |[安非他酮](/drugs/安非他酮) |20241128 | 
 | A0073 | [舍曲林](/drugs/舍曲林) | 20241212 | A0074 | [伏立康唑](/drugs/伏立康唑) | 20241216 | A0075 | [ISRIB](/drugs/ISRIB.md) | 20241216 |
 | A0076 | [Semax](/drugs/脑力肽.md) | 20241216
-## 按CAS顺序的全部药物索引^[CAS号以未成盐、成酯的原型药物为准，除特别规定旋光性的药物外，以外消旋体CAS号为准。]
+## 按CAS顺序的全部药物索引
 50-28-2 [雌二醇](/drugs/雌二醇/)————需注意相互作用的天然激素
 50-36-2 [可卡因](/drugs/可卡因)————最早的多巴胺成瘾问题造就者，天然的硬毒品（Hard drug）
 50-37-3 [麦角酸二乙酰胺](/drugs/LSD/)————最强致幻剂，毒品管制
@@ -255,7 +255,7 @@
 1597403-47-8 [ISRIB](/drugs/ISRIB.md)————综合应激反应抑制剂，益智药
 1926203-09-9 [Troriluzole](/drugs/利鲁唑.md#化学结构对比)————利鲁唑的三肽前体
 
-## 作用机理不明的药物索引^[[wikipedia](https://en.wikipedia.org/wiki/Category:Drugs_with_unknown_mechanisms_of_action)]
+## 作用机理不明的药物索引
 以下药物作用机理并不一定完全不明，亦可能部分确定部分不明。
 ### 神经药物
 59-47-2 [甲酚甘油醚](/drugs/愈创甘油醚.md/)（Mephenesin）
@@ -323,21 +323,21 @@
 ### 部分非竞争性NMDA拮抗剂作用强度对比
 | 药物名称 | IC50（nM）| IC90（nM）|Ki（nM） | 相对作用强度（金刚烷胺=1） | 
 |---- |---- |---- |----|----|
-|[地佐环平](/drugs/地佐环平.md)^[[wikipedia](https://en.wikipedia.org/wiki/NMDA_receptor_antagonist#Uncompetitive_channel_blockers_2)]|4.1||2.5|4000|
-|苯环己哌啶^[[wikipedia](https://en.wikipedia.org/wiki/NMDA_receptor_antagonist#Uncompetitive_channel_blockers_2)]|91或59^[[wikipedia](https://en.wikipedia.org/wiki/Orphenadrine#Pharmacology)]||57.9|172.7|
-|[S氯胺酮](/drugs/氯胺酮/)||||>30.9^[[wikipedia](https://en.wikipedia.org/wiki/Arketamine#Novel_antidepressant)]|
-|[氯胺酮](/drugs/氯胺酮/)^[[wikipedia](https://en.wikipedia.org/wiki/NMDA_receptor_antagonist#Uncompetitive_channel_blockers_2)]|508.5||250-660^[[wikipedia](https://en.wikipedia.org/wiki/Ketamine#Molecular_targets)]|≈30.9|
+|[地佐环平](/drugs/地佐环平.md)|4.1||2.5|4000|
+|苯环己哌啶 |91或59||57.9|172.7|
+|[S氯胺酮](/drugs/氯胺酮/)||||>30.9|
+|[氯胺酮](/drugs/氯胺酮/)|508.5||250-660|≈30.9|
 |[右啡烷](/drugs/右美沙芬)|||486–906|11.04-20.6|
 |[托莫西汀](/drugs/托莫西汀/)|||0.66-3470|2.88-15150|
 |[美金刚](/drugs/美金刚/)||12000||2.6-13^[[知乎](https://zhuanlan.zhihu.com/p/616670846)：当使用浓度为12μM时，可将大鼠视网膜神经节细胞中NMDA诱导的电流阻断90%，可知IC90。相对作用强度为主编按IC90=2-10倍IC50估算。]|
 |[右美沙芬](/drugs/右美沙芬/)|||2120–8945|1.12-4.72|
-|奥芬那君/邻甲苯海拉明^[[wikipedia](https://en.wikipedia.org/wiki/Orphenadrine#Pharmacology)]|||5300-6700|1.49-1.89|
+|奥芬那君/邻甲苯海拉明 [wikipedia](https://en.wikipedia.org/wiki/Orphenadrine#Pharmacology)|||5300-6700|1.49-1.89|
 |[金刚烷胺](/drugs/金刚烷胺/)|||10000|1|
 |[喹硫平](/drugs/喹硫平/)|||>10,000|<1|
-|曲马多^[[wikipedia](https://en.wikipedia.org/wiki/Tramadol#Pharmacology)]|16400|||0.958|
-|[利鲁唑](/drugs/利鲁唑.md)^[[TargetMol](https://www.targetmol.cn/compound/Riluzole)]|43000|||0.36|
+|曲马多 [wikipedia](https://en.wikipedia.org/wiki/Tramadol#Pharmacology)]|16400|||0.958|
+|[利鲁唑](/drugs/利鲁唑.md)[TargetMol](https://www.targetmol.cn/compound/Riluzole)|43000|||0.36|
 |[钩藤碱](/report/RP126/)^[[wikipedia](https://en.wikipedia.org/wiki/Rhynchophylline)]|43200|||0.36|
-|[对乙酰氨基酚](/drugs_meta/复方制剂.md#氨基比林咖啡因)^[[wikipedia](https://en.wikipedia.org/wiki/NMDA_receptor_antagonist#Uncompetitive_channel_blockers_2)]|59421||37841|0.26|
+|[对乙酰氨基酚](/drugs_meta/复方制剂.md#氨基比林咖啡因) [wikipedia](https://en.wikipedia.org/wiki/NMDA_receptor_antagonist#Uncompetitive_channel_blockers_2)]
 ### 部分激动剂
 68-41-7 环丝氨酸（Cycloserine）
 ### 激动剂
@@ -349,7 +349,7 @@
 50-36-2 [可卡因](/drugs/可卡因/)/古柯碱（Cocaine）
 51-34-3 [东莨菪碱](/drugs/东莨菪碱/)（Scopolamine）
 56-69-9 [5-羟色氨酸](/drugs/5-HTP/)/加纳籽提取物（5-Hydroxytryptophan，5-HTP）
-58-08-2 [咖啡因](/drugs/none)（Caffeine）<!--居然没有咖啡因？>
+58-08-2 [咖啡因](/drugs/none)（Caffeine）居然没有咖啡因？
 58-55-9 [茶碱](/drugs_meta/茶碱类药物.md#茶碱theophylline)（Theophylline）
 64-04-0 [苯乙胺](/drugs/苯乙胺.md)（Phenethylamine，PEA）
 64-17-5 乙醇（Alcohol，依托咪酯H）
@@ -380,4 +380,3 @@
 42971-09-5 [长春西汀](/drugs/长春西汀)（Vinpocetine）
 53123-88-9 [西罗莫司/雷帕霉素](/drugs/西罗莫司)（Sirolimus/Rapamycin）
 102518-79-6 [石杉碱甲](/drugs/胆碱酯酶抑制剂.md)（Huperzine A）
-
